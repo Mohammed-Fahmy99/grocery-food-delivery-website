@@ -1,0 +1,7 @@
+export * from "@features/DownloadOurApp"
+export * from "@features/Footer"
+export * from "@features/Hero"
+export * from "@features/HomeDelivery"
+export * from "@features/WhatWeServe"
+export * from "@features/WhyChoseUs"
+export * from "@features/Nav"

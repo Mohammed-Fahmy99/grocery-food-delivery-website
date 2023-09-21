@@ -3,7 +3,7 @@ type containerPropsTypes = {
 
 function Container({ className,children }: containerPropsTypes) {
   return (
-    <section className={`w-4/5 m-auto${className}`}>
+    <section className={`w-4/5 m-auto ${className}`}>
         {children}
     </section>
   );

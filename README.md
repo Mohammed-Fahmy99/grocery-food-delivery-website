@@ -4,7 +4,7 @@ Grover is a modern web application designed to provide fast and efficient grocer
 
 ## Screenshots
 
-![Grover](./path/to/your/screenshot.png)
+![Grover](./public/froty-app.png)
 
 ## Features
 

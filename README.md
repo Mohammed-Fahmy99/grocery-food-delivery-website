@@ -1,27 +1,30 @@
-# React + TypeScript + Vite
+# Grover
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Grover is a modern web application designed to provide fast and efficient grocery delivery services. With Grover, users can order fresh groceries delivered to their home in as little as 2 hours. The application offers a seamless user experience with its clean design and intuitive interface.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Grover](./path/to/your/screenshot.png)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Clean and modern design
+- Responsive layout for mobile and desktop
+- Highlight of key features like fast delivery, free shipping, and secure checkout
+- Call-to-action buttons for ordering and exploring the service
+- Mobile app promotion with download links for iOS and Android
 
-- Configure the top-level `parserOptions` property like this:
+## Technologies Used
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+- **ReactJS**: A JavaScript library for building user interfaces.
+- **TailwindCSS**: A utility-first CSS framework for rapid UI development.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **HTML & CSS**: Markup and styling languages for web development.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/grover.git
